@@ -1,0 +1,41 @@
+.div
+{
+ border: 2px solid purple;
+ border-radius: 3%;
+ outline: solid;
+ outline-color: blueviolet;
+ box-shadow: 10px 10px 5px black;
+ text-indent: 50px;
+ text-align-last: center;
+ padding: 10px;
+ margin: 50px;
+ background-image: url('../job.jpeg');
+ background-repeat: no-repeat;
+ background-size: contain;
+ background-position: center;
+}
+#bal{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+.div p{
+    color: purple;
+}
+/* #git{
+    border: 2px solid darkorchid;
+    border-radius: 10%;
+} */
+#kd{
+    
+    text-decoration-line: underline;
+}
+.git
+{
+ border: 2px solid black;
+ display: block;
+}
+.jda
+{
+    border: 2px solid black;
+}
